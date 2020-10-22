@@ -63,6 +63,7 @@ public class Controller {
             vekt = Double.parseDouble(innVekt);
             høyde = Double.parseDouble(innHøyde);
             født = Integer.parseInt(innFødt);
+            //aasda
 
         } catch (Exception e) {
             vekt = 0;
